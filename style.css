@@ -1,0 +1,13 @@
+:root { --accent: #6a4; --accent-2: #224; }
+
+* { box-sizing: border-box; }
+
+body { margin: 0; font-family: system-ui, sans-serif; color: #222; }
+
+.site-header { display: flex; justify-content: space-between; align-items: center;
+padding: 1rem; background: #f6f6f6; }
+
+.btn { padding: .5rem .8rem; border: 1px solid #ccc; text-decoration: none; border-radius: .4rem; }
+.btn-secondary { background: var(--accent); color: white; }
+
+.hero { padding: 3rem 1rem; background: #fff; }
