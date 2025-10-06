@@ -11,3 +11,5 @@ padding: 1rem; background: #f6f6f6; }
 .btn-secondary { background: var(--accent); color: white; }
 
 .hero { padding: 3rem 1rem; background: #fff; }
+
+.hero-color { color: orange; } 
